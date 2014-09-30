@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# gamesamp
+#
+
+projectname: gamesamp
+vendorid: com.maquiling
+mainmodule: com.maquiling.gamesamp
